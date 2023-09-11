@@ -4,7 +4,7 @@ Exercícios, aprendizados e curso para Java e suas extensões.
 
 Ao longo dos estudos, tive muita dificuldade em acostumar com a vastidão do ecossistema Java.
 Então decidir organiza-las para facilatar o entendimento e ter um norte sempre que preciso.
-## Lembrando que é apenas o meu entendimento, não necessariamente estão corretos em definição ou ordem. Compartilhe sua opinião e ajude no crescimento deste README.
+### Lembrando que é apenas o meu entendimento, não necessariamente estão corretos em definição ou ordem. Compartilhe sua opinião e ajude no crescimento deste README.
 
 #  Ecossistema Java
 
