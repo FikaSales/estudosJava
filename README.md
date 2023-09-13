@@ -18,7 +18,7 @@ Então decidir organiza-las para facilatar o entendimento e ter um norte sempre 
     - Java Naming and Directory Interface (JNDI) ->
     - JavaServer Pages (JSP) ->  tecnologia de criação de páginas web dinâmicas.  Usado comumente com JSF.
     - JavaFX -> criação de apps gráficos de desktop e interfaces de usuário ricas(interativas e atraentes).
-  - Java ME (Micro Edition) -> 
+  - Java ME (Micro Edition) -> Micro serviços como sistemas embarcados(IoT), smartphones, etc. Objetivo de que possam ser executados em dispositivos com recursos de hardware e memória restritos.
 
 2 Frameworks
   - Spring Framework ->
